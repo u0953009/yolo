@@ -1,4 +1,4 @@
-# Yolo implementation
+# Building Yolo network emulating Yolov5 architecture
 ## Reference 
 https://github.com/ultralytics/yolov5
 
