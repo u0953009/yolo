@@ -37,3 +37,4 @@ https://github.com/ultralytics/yolov5
 python predict.py --input_size 416 --img_path demo/test/ --result_path demo/result/ --weights demo/weights00.h5 --width 0.33 --depth 0.22
  ```
 
+yoonkihong27@gmail.com
